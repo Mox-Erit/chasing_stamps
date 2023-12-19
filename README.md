@@ -1,5 +1,7 @@
 # ChasingStamps
 
+Built to support virtual archiving of rare or unusual stamps within my collection.  
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
